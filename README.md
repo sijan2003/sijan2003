@@ -27,13 +27,6 @@
 | **[CommunityHall](https://github.com/sijan2003/CommunityHall)** | Hall booking web application | C# · ASP.NET Core |
 | **[UpTown-Liquors](https://github.com/sijan2003/UpTown-Liquors)** | Responsive e-commerce storefront | HTML · CSS · JavaScript |
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sijan2003&show_icons=true&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijan2003&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
-
 ## 📫 Connect
 
 - GitHub: [@sijan2003](https://github.com/sijan2003)
